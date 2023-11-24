@@ -70,58 +70,58 @@ active:
   - recipes/character-counter
   - js/geolocation-api
   - a11y/content-hidden
-  - js/function
-  - recipes/snow
-  - js/deal-with-forms
-  - js/execution-order
-  - js/async-in-js
-  - html/article
-  - css/position
-  - css/custom-properties
-  - css/flexbox-guide
-  - html/doctype
-  - css/box-shadow
-  - recipes/progress
-  - html/form
-  - tools/static-types
-  - css/box-model
-  - js/infinite-scroll
-  - html/flow
-  - css/transform-function
-  - tools/network
-  - recipes/lets-encrypt-nginx
-  - html/head
-  - tools/ci-cd
-  - tools/markdown
-  - tools/how-the-browser-creates-pages
-  - html/section
-  - css/keyframes
   - js/closures
   - css/grid-guide
-  - js/boolean
+  - js/deal-with-forms
+  - css/custom-properties
+  - tools/webpack
   - a11y/aria-hidden
-  - html/video
-  - tools/gitlab-ci-cd
-  - tools/docker
-  - js/var-let
-  - tools/bundlers
-  - css/attr
-  - tools/how-to-test-and-why
-  - html/nav
-  - css/display
-  - css/media
-  - tools/oop
-  - js/function-context
+  - css/pseudoelements
+  - tools/ci-cd
   - html/img
+  - tools/docker
+  - js/function
+  - tools/network
+  - css/attr
+  - js/infinite-scroll
+  - html/article
+  - js/var-let
+  - tools/how-to-test-and-why
+  - css/box-shadow
+  - js/boolean
+  - html/input
+  - html/section
   - tools/cli
-  - css/specificity
+  - tools/markdown
+  - tools/static-types
+  - tools/gitlab-ci-cd
+  - html/video
   - a11y/aria-intro
   - tools/clean-architecture
+  - js/execution-order
+  - html/flow
+  - css/box-model
+  - recipes/snow
+  - css/specificity
+  - css/position
+  - css/display
+  - html/doctype
   - tools/agile
+  - recipes/lets-encrypt-nginx
+  - tools/how-the-browser-creates-pages
   - html/div
-  - css/pseudoelements
-  - tools/webpack
+  - html/nav
+  - html/form
+  - html/head
+  - js/function-context
+  - tools/oop
+  - js/async-in-js
+  - css/transform-function
+  - css/media
+  - css/keyframes
+  - css/flexbox-guide
+  - recipes/progress
   - a11y/screenreaders
-  - html/input
+  - tools/bundlers
 ---
 
